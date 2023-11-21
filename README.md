@@ -13,7 +13,8 @@
 
 
 
-# Now I also have made this application in android only, using kotlin language as i am more proficient in android developemt 
+# Now I also have made this application in android only, using kotlin language as i am more proficient in android development (Kotlin) and currently learning flutter.
+
 
 ![a7](https://github.com/GaganMaurya/ToDo/assets/111219175/113eeb71-9b41-4f80-b223-6dd343e74e13)
 ![a6](https://github.com/GaganMaurya/ToDo/assets/111219175/af752141-012b-4afd-960f-596a8b7f1516)
