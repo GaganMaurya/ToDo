@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807909231527",
+    "project_id": "pijoo-57bc4",
+    "storage_bucket": "pijoo-57bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807909231527:android:0b66a5e7a001ab449c0482",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807909231527-plfrlbidps0vutiarcdd675550gov4ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06KQq-obxj2afr8959r1bVgdhaAkpWfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807909231527-o57e016dmj8fcef6o5lv2ndhrfq0eome.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
